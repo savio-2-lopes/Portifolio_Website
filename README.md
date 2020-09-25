@@ -11,5 +11,5 @@ Este projeto consistem em uma aplicação Frontend básica de um website respons
 <br>
 Baseado nos vídeos do canal [WEB CIFAR](https://www.youtube.com/channel/UCdxaLo9ALJgXgOUDURRPGiQ)
 <br> <br>
-⚙️ Acesse o deploy do projeto atráves do link abaixo: <br> 
+⚙️ Para acessar o deploy do projeto, acesse o link abaixo: <br> 
 [Website Responsivo](https://savio-2-lopes.github.io/Portifolio_Website/)
