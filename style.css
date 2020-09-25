@@ -1,3 +1,8 @@
+/*
+Baseado nos videos do canal WEB CIFAR
+Disponivel em:  <https://www.youtube.com/channel/UCdxaLo9ALJgXgOUDURRPGiQ>
+*/
+
 @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap';
 
 *{
@@ -224,7 +229,7 @@ p{
 
 #header .hamburger.active .bar::after {
 	top: 0;
-}	
+}
 
 /* END HEADER */
 
