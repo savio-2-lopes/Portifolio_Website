@@ -11,6 +11,7 @@ Este projeto consistem em uma aplicação Frontend básica de um website respons
 
 <br>
 
+
 # ⚙️ Tecnologias
 - [X] HTML
 - [X] CSS
