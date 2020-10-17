@@ -3,7 +3,7 @@
 </p>
 
 <br> 
-<p align="center"> 🚀 <strong>Proffy - 2º NLW</strong> 🚧
+<p align="center"> 🚀 <strong>My Responsive WebSite</strong> 🚧
  </p>
  
 <br>
@@ -22,10 +22,7 @@
 
 <br> 
 
-# :pushpin: 
-<br>
-
-# :memo: Índice
+# :pushpin: Índice
 
 - [Projeto](#sobre)
 - [Tecnologias](#tecnologias)
